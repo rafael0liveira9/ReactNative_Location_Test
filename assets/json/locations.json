@@ -1,0 +1,2902 @@
+[
+    {
+        "name": "Hot dog expresso Lovizotto",
+        "description": "Rua Itatiaia, 1638 \nSaiba mais em @hotdogexpressolovizotto",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "portão",
+        "latitude": -2547716106780430,
+        "longitude": -4930802708559630
+    },
+    {
+        "name": "Hotdog Ibaiti - Boa Vista",
+        "description": "Rua Antônio Lago, 158 \nSaiba mais em @hotdog_ibaiti",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "boa-vista",
+        "latitude": -25388912903051300,
+        "longitude": -49238345822246800
+    },
+    {
+        "name": "Hotdog Ibaiti - Cajuru",
+        "description": "Rua Amanzor Soffiatti, 12 \nSaiba mais em @hotdog_ibaiti",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "cajuru",
+        "latitude": -25469624810480600,
+        "longitude": -49206155122240800
+    },
+    {
+        "name": "Green Dog - Juvevê",
+        "description": "Rua Alberto Folloni, 225\nSaiba mais em @greendogofficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "juvevê",
+        "latitude": -25413131254771500,
+        "longitude": -4926389139526340
+    },
+    {
+        "name": "Green Dog - Centro",
+        "description": "Rua Vicente Machado, 554 \nSaiba mais em @greendogofficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "centro",
+        "latitude": -25434860321192100,
+        "longitude": -4928211507991620
+    },
+    {
+        "name": "Green Dog - São José dos Pinhais ",
+        "description": "Praça Oito de Janeiro, 1293 \nSaiba mais em @greendogofficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -25535544688499000,
+        "longitude": -4920535930874520
+    },
+    {
+        "name": "Hot Dog Expresso Move - Água Verde",
+        "description": "Rua Buenos Aires, 1160 - Loja 2\nSaiba mais em @hotdogexpressomove",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "água-verde",
+        "latitude": -25446939954616500,
+        "longitude": -4927618610875180
+    },
+    {
+        "name": "Hot Dog Expresso Move - Jardim das Américas",
+        "description": "Avenida Francisco H. dos Santos, 740\nSaiba mais em @hotdogexpressomove",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "jardim-das-américas",
+        "latitude": -2545463916748750,
+        "longitude": -4923113566642390
+    },
+    {
+        "name": "Hot Dog Expresso Move - Hauer",
+        "description": "Rua Oliveira Viana, 694\nSaiba mais em @hotdogexpressomove",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "hauer",
+        "latitude": -2548112331425980,
+        "longitude": -4925588646642200
+    },
+    {
+        "name": "Scooby Dog",
+        "description": "Rua Itupava, 1299 \nSaiba mais em @scoobydogitupava",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cachorro-quente",
+        "district": "hugo-lange",
+        "latitude": -25422414319350100,
+        "longitude": -4924751255293550
+    },
+    {
+        "name": "La Rauxa Café",
+        "description": "Rua Eurípedes Garcez do Nascimento, 906\nSaiba mais em @larauxacafe",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "ahú",
+        "latitude": -25404171623873800,
+        "longitude": -4926496936457280
+    },
+    {
+        "name": "Le Caffes especias",
+        "description": "Avenida Sete de Setembro, 1865, box 311 - Mercado Municipal\nSaiba mais em @le_caffes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "centro",
+        "latitude": -25434682543417100,
+        "longitude": -4925700056642550
+    },
+    {
+        "name": "Café Escola Senac - Jardim Botânico",
+        "description": "Rua Engenheiro Ostoja Roguski, 350\nSaiba mais em @senacparana",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "jardim-botânico",
+        "latitude": -2544208115233880,
+        "longitude": -49241694608752096
+    },
+    {
+        "name": "Café Escola Senac - Bevedere",
+        "description": "Rua Kellers, 290 \nSaiba mais em @senacparana",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "são-francisco",
+        "latitude": -25427146202964200,
+        "longitude": -49275390737589600
+    },
+    {
+        "name": "Café Escola Senac - Paço Municipal",
+        "description": "Praça Generoso Marques, 189\nSaiba mais em @senacparana",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "centro",
+        "latitude": -25429448100973400,
+        "longitude": -4927002906642590
+    },
+    {
+        "name": "Go Coffee - Vicente",
+        "description": "Rua Vicente Machado, 476, loja 1\nSaiba mais em @gocoffeebrasil",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "centro",
+        "latitude": -25434839188237300,
+        "longitude": -4928152842409820
+    },
+    {
+        "name": "Go Coffee - Osório",
+        "description": "Praça General Osório, 345\nSaiba mais em @gocoffeebrasil",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "centro",
+        "latitude": -2543293915223840,
+        "longitude": -4927685883758920
+    },
+    {
+        "name": "Go Coffee - Casa Ahú",
+        "description": "Rua Comendador Santiago Colle, 174\nSaiba mais em @gocoffeebrasil",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "ahú",
+        "latitude": -254002663683488,
+        "longitude": -49264064151082304
+    },
+    {
+        "name": "Coffeeterie - São Francisco ",
+        "description": "Rua Dr. Claudino dos Santos, 142\nSaiba mais em @coffeeterie ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "são-francisco",
+        "latitude": -25427196334392300,
+        "longitude": -49273468108753104
+    },
+    {
+        "name": "Coffeeterie - Cine passeio",
+        "description": "Rua Riachuelo, 410\nSaiba mais em @coffeeterie ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "centro",
+        "latitude": -2542621269551270,
+        "longitude": -49269463408753296
+    },
+    {
+        "name": "Coffeeterie - Clube Curitibano",
+        "description": "Av. Presidente Getúlio Vargas, 2857\nSaiba mais em @coffeeterie ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cafeteria",
+        "district": "água-verde",
+        "latitude": -254506652873923,
+        "longitude": -4928600460875140
+    },
+    {
+        "name": "Pantucci - Vila Izabel",
+        "description": "Rua Professor Ulisses Vieira 146\nSaiba mais em @pantuccipanificadora",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "vila-izabel",
+        "latitude": -2546147804930360,
+        "longitude": -4929175132409620
+    },
+    {
+        "name": "Pantucci - Vista Alegre",
+        "description": "Rua Antônio Grade, 620\nSaiba mais em @pantuccipanificadora",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "vista-alegre",
+        "latitude": -25407777882222400,
+        "longitude": -4929213233573620
+    },
+    {
+        "name": "Pantucci - Pátio Batel",
+        "description": "Avenida do Batel, 1868\nSaiba mais em @pantuccipanificadora",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "batel",
+        "latitude": -2544279198211200,
+        "longitude": -4929086926642480
+    },
+    {
+        "name": "Padaria Requinte - Bigorrilho",
+        "description": "Rua Francisco Rocha, 1809\nSaiba mais em @padariarequinte",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "bigorrilho",
+        "latitude": -25430448245576800,
+        "longitude": -492962673240985
+    },
+    {
+        "name": "Padaria Requinte - Cabral",
+        "description": "Rua Recife, 34\nSaiba mais em @padariarequinte",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "cabral",
+        "latitude": -25411755189570100,
+        "longitude": -4925326122409990
+    },
+    {
+        "name": "Família Farinha",
+        "description": "Avenida Nossa Senhora da Luz, 2345\nSaiba mais em @familiafarinha",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "jardim-social",
+        "latitude": -2542349264009200,
+        "longitude": -49241171739444600
+    },
+    {
+        "name": "Padaria América ",
+        "description": "Rua Pres. Carlos Cavalcanti, 942 \nSaiba mais em @padariaamerica",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "são-francisco",
+        "latitude": -25425030883226900,
+        "longitude": -4927411922224410
+    },
+    {
+        "name": "Barbarella Bakery",
+        "description": "Rua Comendador Araújo, 795 \nSaiba mais em @barbarellabakerycwb",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-francês",
+        "district": "centro",
+        "latitude": -25438821693998100,
+        "longitude": -49281948224097904
+    },
+    {
+        "name": "Ju Simas Confeitaria",
+        "description": "Rua Miguel Bertolino Pizzato, 1115 \nSaiba mais em @jusimasconfeitaria",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "araucária",
+        "latitude": -2559682563606760,
+        "longitude": -4939385868175910
+    },
+    {
+        "name": "Shavuot Divino",
+        "description": "Rua Teixeira Coelho, 100\nSaiba mais em @shavuotdivino",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "batel",
+        "latitude": -25440614442916300,
+        "longitude": -4928616104922460
+    },
+    {
+        "name": "Roberta Schwanke Gastronomie Patisseri - Bigorrilho",
+        "description": "Rua Otero Queirolo, 223, loja 7\nSaiba mais em @robertaschwanke_gastronomie",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "bigorrilho",
+        "latitude": -25433242662148300,
+        "longitude": -493069809087528
+    },
+    {
+        "name": "Roberta Schwanke Gastronomie Patisseri - Alto da XV",
+        "description": "Rua Atílio Borio 1398, loja 1\nSaiba mais em @robertaschwanke_gastronomie",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "alto-da-xv",
+        "latitude": -2542266366932220,
+        "longitude": -4925189827991710
+    },
+    {
+        "name": "Dolce Dallas",
+        "description": "Avenida Iguaçu, 4399\nSaiba mais em @dolcedallas",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "vila-izabel",
+        "latitude": -25454479343243300,
+        "longitude": -4930242270875120
+    },
+    {
+        "name": "Madala Gourmet",
+        "description": "Rua Eurides Cunha, 90, loja 2\nSaiba mais em @madalagourmet ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "doceria",
+        "district": "vila-izabel",
+        "latitude": -25454864793134900,
+        "longitude": -4928916456642390
+    },
+    {
+        "name": "Villa Bistro",
+        "description": "Avenida Sete de Setembro, 6334\nSaiba mais em @villabistrocwb",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "batel",
+        "latitude": -25449450922493300,
+        "longitude": -4929853532224240
+    },
+    {
+        "name": "O Natural",
+        "description": "Alameda Doutor Carlos de Carvalho, 62\nSaiba mais em @onaturalfood",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "centro",
+        "latitude": -2543101545749310,
+        "longitude": -4927586103758920
+    },
+    {
+        "name": "Rio Fiambreria",
+        "description": "Rua Capitão Souza Franco, 848\nSaiba mais em @riofiambreria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "bigorrilho",
+        "latitude": -25436968336173400,
+        "longitude": -4929008600875250
+    },
+    {
+        "name": "BoardZ Game Pub",
+        "description": "Rua Chile, 2077\nSaiba mais em @boardzgamepub",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "rebouças",
+        "latitude": -25452106176896600,
+        "longitude": -49268739666424096
+    },
+    {
+        "name": "Burguer Bar - Xaxim",
+        "description": "Rua Francisco Derosso, 1095\nSaiba mais em @burguer.bar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "xaxim",
+        "latitude": -2549984658946070,
+        "longitude": -4926666422223870
+    },
+    {
+        "name": "Burguer Bar - Juvevê",
+        "description": "Rua Constantino Marochi, 554 \nSaiba mais em @burguer.bar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sanduíche",
+        "district": "juvevê",
+        "latitude": -25415849187579500,
+        "longitude": -4926032573573560
+    },
+    {
+        "name": "Mestre Sushi",
+        "description": "Rua Raul Pompeia, 1642\nSaiba mais em @mestresushi",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "japonês",
+        "district": "cidade-industrial-de-curitiba",
+        "latitude": -2548179310427190,
+        "longitude": -4934494849340350
+    },
+    {
+        "name": "Kawano Sushi",
+        "description": "Rua Doutor Alexandre Gutierrez, 552\nSaiba mais em @kawanosushi",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "japonês",
+        "district": "água-verde",
+        "latitude": -2544860603332160,
+        "longitude": -492847042645697
+    },
+    {
+        "name": "Felicidades da Mô ",
+        "description": "Rua Saldanha da Gama, 59\nSaiba mais em @felicidadesdamo",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "japonês",
+        "district": "centro",
+        "latitude": -2542741778144010,
+        "longitude": -49259146306898304
+    },
+    {
+        "name": "Maias Sushi",
+        "description": "Avenida da Integração, 908\nSaiba mais em @maiassushi2020",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "japonês",
+        "district": "bairro-alto",
+        "latitude": -2540868338389520,
+        "longitude": -49212630679918096
+    },
+    {
+        "name": "Tokom Fome",
+        "description": "Rua Mato Grosso, 615\nSaiba mais em @tokom_fome",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "japonês",
+        "district": "água-verde",
+        "latitude": -25464841801240700,
+        "longitude": -49284621293404800
+    },
+    {
+        "name": "Kurytyba Gastromomia",
+        "description": "Avenida Cândido de Abreu, 707\nSaiba mais em @kurytyba.gastronomia ",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "buffet-por-quilo",
+        "district": "centro-cívico",
+        "latitude": -2541785316197860,
+        "longitude": -4926885812224470
+    },
+    {
+        "name": "Alecrim Dhourado",
+        "description": "Rua Joaquim Nabuco, 1682 – Cidade Jardim\nSaiba mais em @alecrimdhourado",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "buffet-por-quilo",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -25528241932311700,
+        "longitude": -4920276081187860
+    },
+    {
+        "name": "Lavanda Gastronomia",
+        "description": "Alameda Dr. Carlos de Carvalho, 713 \nSaiba mais em @lavanda_gastronomia",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "buffet-por-quilo",
+        "district": "centro",
+        "latitude": -25433691597148900,
+        "longitude": -4928173669526190
+    },
+    {
+        "name": "Tomilho cozinha cotidiana",
+        "description": "Rua Gutemberg, 44\nSaiba mais em @tomilhocozinha",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "buffet-por-quilo",
+        "district": "batel",
+        "latitude": -2543732077066710,
+        "longitude": -4928536434548170
+    },
+    {
+        "name": "A Casa da Esquina",
+        "description": "Rua Parintins, 490\nSaiba mais em @acasadaesquina",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "buffet-por-quilo",
+        "district": "vila-izabel",
+        "latitude": -25458286875605700,
+        "longitude": -4929513246267650
+    },
+    {
+        "name": "Pastel de Vento.Com",
+        "description": "Avenida Manoel Ribas, 8195\nSaiba mais em @pizzariapasteldevento",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "butiatuvinha",
+        "latitude": -25395035566567400,
+        "longitude": -49347685603154896
+    },
+    {
+        "name": "Farina Pizzaria Artesanal",
+        "description": "Avenida Manoel Ribas, 5824\nSaiba mais em @farinapizzaria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "santa-felicidade",
+        "latitude": -25401572442384800,
+        "longitude": -493274129953704
+    },
+    {
+        "name": "Trezzo Pizza Pasta - Jockey Plaza ",
+        "description": "Avenida Victor Ferreira do Amaral, 2633, LJ 2078, 2° andar\nSaiba mais em @trezzopizzapasta",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "tarumã",
+        "latitude": -2542566538424080,
+        "longitude": -49215939874318
+    },
+    {
+        "name": "RM Cine Pizza",
+        "description": "Avenida Nossa Senhora Aparecida, 1061\nSaiba mais em @rmcinepizza",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "seminário",
+        "latitude": -2544761224374540,
+        "longitude": -49308427931989104
+    },
+    {
+        "name": "Pizzaria da Mathilda - Centro ",
+        "description": "Avenida Vicente Machado, 859\nSaiba mais em @pizzariadamathilda",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "centro",
+        "latitude": -25436240546016500,
+        "longitude": -4928480630315370
+    },
+    {
+        "name": "Pizzaria da Mathilda - Juvevê",
+        "description": "Rua Rocha Pombo, 265\nSaiba mais em @pizzariadamathilda",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "juvevê",
+        "latitude": -25415174624388400,
+        "longitude": -4925742936082620
+    },
+    {
+        "name": "Pizzaria da Mathilda - Água Verde",
+        "description": "Avenida dos Estados 1066, lj.08\nSaiba mais em @pizzariadamathilda",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pizzaria",
+        "district": "água-verde",
+        "latitude": -2546774399311070,
+        "longitude": -4928789590315270
+    },
+    {
+        "name": "Juliatto Café Colonial",
+        "description": "Rua Julio Cesar Setenareski, 3883 - Colônia Mergulhão\nSaiba mais em @juliattocafecolonial",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "restaurante-rural",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -255699409728038,
+        "longitude": -4911249798965740
+    },
+    {
+        "name": "Restaurante Rural Jackson Assados",
+        "description": "Rua do Contorno, 877 - Jardim das Acácias\nSaiba mais em @jackson_assados",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-rural",
+        "district": "quatro-barras",
+        "latitude": -2537988455072080,
+        "longitude": -49061603405006896
+    },
+    {
+        "name": "Paraíso das Trutas - Restaurante e Ecoturismo",
+        "description": "Condomínio Ecológico Recreio da Serra - Rua dos Sabiás, s\/n\nSaiba mais em @paraisodastrutas",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-rural",
+        "district": "piraquara",
+        "latitude": -2543798942474190,
+        "longitude": -4902925905341880
+    },
+    {
+        "name": "Pasárgada Restaurante Rural",
+        "description": "Rua Comendador Orlando Cecon, 500 - Butiatumirim\nSaiba mais em @pasargadarestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-rural",
+        "district": "colombo",
+        "latitude": -2528334989039560,
+        "longitude": -49177272535201504
+    },
+    {
+        "name": "Aria Verde",
+        "description": "Rua João Berger, 544 - Colônia Mergulhão\nSaiba mais em @aria.verde",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-rural",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -255650481088405,
+        "longitude": -49126805418493400
+    },
+    {
+        "name": "Âmbar",
+        "description": "Rua Coronel Dulcídio 918\nSaiba mais em @ambar.curitiba",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "bar",
+        "district": "batel",
+        "latitude": -25441121143847500,
+        "longitude": -492822181473332
+    },
+    {
+        "name": "BarBaran",
+        "description": "Alameda Augusto Stellfeld, 799\nSaiba mais em @barbaran_ucrania",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "bar",
+        "district": "centro",
+        "latitude": -25430929517365500,
+        "longitude": -4928166540315380
+    },
+    {
+        "name": "Nosso Boteco",
+        "description": "Rua Vicente Ciccarino, 699\nSaiba mais em @nossobotecoboavista",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "bar",
+        "district": "boa-vista",
+        "latitude": -25393940017695100,
+        "longitude": -49247706330139200
+    },
+    {
+        "name": "Eklético Gastro Music Bar",
+        "description": "Avenida Iguaçu, 2142\nSaiba mais em @ekleticogastromusicbar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "bar",
+        "district": "água-verde",
+        "latitude": -25446575021697500,
+        "longitude": -4928195718780970
+    },
+    {
+        "name": "Porks Bacacheri",
+        "description": "Avenida Prefeito Erasto Gaertner, 731\nSaiba mais em @porksbacacheri",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "bar",
+        "district": "bacacheri",
+        "latitude": -2540091633612760,
+        "longitude": -4923998687431890
+    },
+    {
+        "name": "Sorella - Centro Cívico",
+        "description": "Rua Marechal Hermes, 728\nSaiba mais em @sorellacentrocivico",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "centro-cívico",
+        "latitude": -25412155544021700,
+        "longitude": -4926549120315430
+    },
+    {
+        "name": "Sorella - Bigorrilho",
+        "description": "Alameda Princesa Izabel, 2191 \nSaiba mais em @sorellachampagnat",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "bigorrilho",
+        "latitude": -2543590820024860,
+        "longitude": -49297717074317696
+    },
+    {
+        "name": "Sorella - Água Verde",
+        "description": "Rua Herculano Carlos Franco de Souza, 427 \nSaiba mais em @sorella_agua_verde",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "água-verde",
+        "latitude": -25450152300540300,
+        "longitude": -4929267393013750
+    },
+    {
+        "name": "Veg e Lev",
+        "description": "Alameda Prudente de Moraes, 1218\nSaiba mais em @vegelev",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "centro",
+        "latitude": -25432310027553800,
+        "longitude": -4928154014548180
+    },
+    {
+        "name": "King Vegan",
+        "description": "Rua Augusto Stresser, 826\nSaiba mais em @kingcozinhavegana",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "juvevê",
+        "latitude": -2541679230850260,
+        "longitude": -4925388387616990
+    },
+    {
+        "name": "Semente de Girassol",
+        "description": "Rua Mateus Leme, 115 \nSaiba mais em @sementedegirassol.vegan",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "são-francisco",
+        "latitude": -25426514564787000,
+        "longitude": -49271880003154
+    },
+    {
+        "name": "Mornings",
+        "description": "Rua Coronel Dulcídio, 540\nSaiba mais em @morningsbrasil",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "restaurante-vegetariano",
+        "district": "batel",
+        "latitude": -25438562016353600,
+        "longitude": -4928425936267720
+    },
+    {
+        "name": "Massas do Italiano",
+        "description": "Rua Delegado Leopoldo Belzack, 912\nSaiba mais em @massasdoitaliano",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "capão-da-imbuia",
+        "latitude": -2543705448003600,
+        "longitude": -49227586147333504
+    },
+    {
+        "name": "Cantina do Delio - Alto da XV",
+        "description": "Rua Itupava, 1094\nSaiba mais em @cantinadodelio",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "alto-da-xv",
+        "latitude": -25422672489532400,
+        "longitude": -4924958157616980
+    },
+    {
+        "name": "Cantina do Delio - Batel",
+        "description": "Rua Teixeira Coelho, 255\nSaiba mais em @cantinadodelio",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "batel",
+        "latitude": -25439928407171200,
+        "longitude": -4928746726082530
+    },
+    {
+        "name": "Limoeiro Casa de Comidas",
+        "description": "Av. Mal. Humberto de A. C. Branco, 669 \nSaiba mais em @limoeiro.casa.de.comidas",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "cristo-rei",
+        "latitude": -25432413182188300,
+        "longitude": -49237752676169600
+    },
+    {
+        "name": "Maccheroni Trattoria",
+        "description": "Rua Manoel Eufrásio, 1124\nSaiba mais em @maccheronioficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "juvevê",
+        "latitude": -2540908152969130,
+        "longitude": -49263740031990400
+    },
+    {
+        "name": "Ciao Salumeria Italiana",
+        "description": "Alameda Dom Pedro II, 255 loja 20\nSaiba mais em @ciaosalumeria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "massas",
+        "district": "batel",
+        "latitude": -2543764707134930,
+        "longitude": -4928308101664580
+    },
+    {
+        "name": "Mangôo Restaurante ",
+        "description": "Rua Visconde do Rio Branco, 948\nSaiba mais em @mangoocwb",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "almoço-executivo",
+        "district": "mercês",
+        "latitude": -25430014244698600,
+        "longitude": -49281260489661800
+    },
+    {
+        "name": "Curry Pasta",
+        "description": "Avenida Manoel Ribas, 750\nSaiba mais em @curry.pasta",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "almoço-executivo",
+        "district": "mercês",
+        "latitude": -2542178727774550,
+        "longitude": -4928608254548190
+    },
+    {
+        "name": "Cozinha da Vó Lena",
+        "description": "Avenida Nossa Senhora Aparecida, 48\nSaiba mais em @cozinhadavolena",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "almoço-executivo",
+        "district": "seminário",
+        "latitude": -25448394984282100,
+        "longitude": -4929960727431710
+    },
+    {
+        "name": "Coin - por Ivan Lopes",
+        "description": "Rua Mauá, 110\nSaiba mais em @coinporivanlopes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "almoço-executivo",
+        "district": "alto-da-glória",
+        "latitude": -25421888517955200,
+        "longitude": -4925690461849790
+    },
+    {
+        "name": "Tuk Tuk Almoço e Jantar",
+        "description": "Rua Camões,1122\nSaiba mais em @tuktuk.br",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "almoço-executivo",
+        "district": "alto-da-xv",
+        "latitude": -25421088917055700,
+        "longitude": -49246851205005696
+    },
+    {
+        "name": "Mezmiz Cozinha Libanesa Descomplicada",
+        "description": "Rua Brasílio Itiberê, 4412\nSaiba mais em @mezmiz_br",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "cozinha-árabe",
+        "district": "água-verde",
+        "latitude": -25453141753984200,
+        "longitude": -4928631730500470
+    },
+    {
+        "name": "Nayme Culinária Árabe",
+        "description": "Rua Coronel Dulcídio, 572\nSaiba mais em @restaurantenayme",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-árabe",
+        "district": "batel",
+        "latitude": -25438599316416500,
+        "longitude": -49283797918497400
+    },
+    {
+        "name": "Almakan Gastronomia Árabe ",
+        "description": "Avenida Iguaçu 2820, Loja 01 \nSaiba mais em @almakanrestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-árabe",
+        "district": "água-verde",
+        "latitude": -2544887678261740,
+        "longitude": -49288718160825296
+    },
+    {
+        "name": "Libaneza Cozinha Árabe",
+        "description": "Rua XV de Novembro, 784\nSaiba mais em @libanezacozinhaarabe",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-árabe",
+        "district": "centro",
+        "latitude": -25429278345586300,
+        "longitude": -49266499870631104
+    },
+    {
+        "name": "BaraQuias",
+        "description": "Rua Manoel Eufrásio, 637 \nSaiba mais em @restaurantebaraquias",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-árabe",
+        "district": "ahú",
+        "latitude": -254108566512942,
+        "longitude": -4925892797431840
+    },
+    {
+        "name": "O Jardineiro Restaurante",
+        "description": "Avenida Manoel Ribas, 227\nSaiba mais em @ojardineirobarerestaurante",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "cozinha-regional-brasileira",
+        "district": "mercês",
+        "latitude": -25423206880289400,
+        "longitude": -49281348362677600
+    },
+    {
+        "name": "Mahá ",
+        "description": "Rua Treze de Maio, 336 \nSaiba mais em @restaurantemaha",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-regional-brasileira",
+        "district": "centro",
+        "latitude": -2542682564859490,
+        "longitude": -492692065477624
+    },
+    {
+        "name": "Restaurante Mineira Gostosa",
+        "description": "Rua Mateus Leme, 491 \nSaiba mais em @restaurantemineiragostosa",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-regional-brasileira",
+        "district": "centro-cívico",
+        "latitude": -2542317031939690,
+        "longitude": -4927125344548210
+    },
+    {
+        "name": "A Caiçara",
+        "description": "Rua Doutor Claudino dos Santos, 90\nSaiba mais em @acaicara",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-regional-brasileira",
+        "district": "são-francisco",
+        "latitude": -2542728623449460,
+        "longitude": -4927283295897400
+    },
+    {
+        "name": "Restaurante Dedo de Moça",
+        "description": "Rua Itupava, 1133\nSaiba mais em @dimocaeventos",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cozinha-regional-brasileira",
+        "district": "alto-da-glória",
+        "latitude": -25422351008404700,
+        "longitude": -4924914851664610
+    },
+    {
+        "name": "Jabuti Bar",
+        "description": "Rua Professor Assis Gonçalves, 1506\nSaiba mais em @jabutibar",
+        "type": 1,
+        "curitibanices": 1,
+        "category": "pão-com-bolinho",
+        "district": "água-verde",
+        "latitude": -2546571433509410,
+        "longitude": -4928644968966070
+    },
+    {
+        "name": "Brado Bar",
+        "description": "Rua Vitório Marenda, 36 - Afonso Pena\nSaiba mais em @brado.bar",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "pão-com-bolinho",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -2550817783404800,
+        "longitude": -4918342174547940
+    },
+    {
+        "name": "Cartolas Sports Bar",
+        "description": "Rua Emiliano Perneta, 880\nSaiba mais em @cartolassportsbar ",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "pão-com-bolinho",
+        "district": "centro",
+        "latitude": -25438412358396600,
+        "longitude": -4927917832948760
+    },
+    {
+        "name": "Kanavial Bar e Restaurante",
+        "description": "Rua Castro, 731\nSaiba mais em @kanavial_bar",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "pão-com-bolinho",
+        "district": "água-verde",
+        "latitude": -25460057055416400,
+        "longitude": -49279599150563296
+    },
+    {
+        "name": "Ushuaia Bar",
+        "description": "Rua Paulo Gorski, 826 \nSaiba mais em @ushuaiabarcuritiba",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "pão-com-bolinho",
+        "district": "mossunguê",
+        "latitude": -2543775999422520,
+        "longitude": -4932234685897390
+    },
+    {
+        "name": "Cartolas Sports Bar",
+        "description": "Rua Emiliano Perneta, 880\nSaiba mais em @cartolassportsbar ",
+        "type": 1,
+        "curitibanices": 1,
+        "category": "carne-de-onça",
+        "district": "centro",
+        "latitude": -25438194766614100,
+        "longitude": -49279108929037696
+    },
+    {
+        "name": "Quitutto GastroPub",
+        "description": "Avenida dos Estados, 481\nSaiba mais em @quitutto",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "carne-de-onça",
+        "district": "água-verde",
+        "latitude": -25464525752485300,
+        "longitude": -4928359757431690
+    },
+    {
+        "name": "Mavy Pub",
+        "description": "Rua João Ernesto Killian, 159 - São Domingos\nSaiba mais em @mavy_pub",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "carne-de-onça",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -2553468466420460,
+        "longitude": -4921161703383820
+    },
+    {
+        "name": "Seu Karel Restobar ",
+        "description": "Rua Guaianazes, 550\nSaiba mais em @seukarelrestobar",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "carne-de-onça",
+        "district": "vila-izabel",
+        "latitude": -254589139986668,
+        "longitude": -4929242235897310
+    },
+    {
+        "name": "Bar da Maniacs",
+        "description": "Avenida Munhoz da Rocha, 1049\nSaiba mais em @bardamaniacs",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "carne-de-onça",
+        "district": "cabral",
+        "latitude": -25407397401660600,
+        "longitude": -492501826896624
+    },
+    {
+        "name": "Feel Free Bolos e Delícias",
+        "description": "Rua 24 de Maio, 971B, E5\nSaiba mais em @feelfreebolosedelicias",
+        "type": 1,
+        "curitibanices": 1,
+        "category": "martha-rocha",
+        "district": "rebouças",
+        "latitude": -25444976815290500,
+        "longitude": -49270308274317504
+    },
+    {
+        "name": "Chiffon Cake Cafeteria",
+        "description": "Rua Jaime Balão, 130\nSaiba mais em @chiffoncakecuritiba",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "martha-rocha",
+        "district": "hugo-lange",
+        "latitude": -2541731538692660,
+        "longitude": -4925037727431830
+    },
+    {
+        "name": "Padaria Brioche",
+        "description": "Rua Augusto Stresser, 839 \nSaiba mais em @padariabrioche",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "martha-rocha",
+        "district": "juvevê",
+        "latitude": -25416440269416,
+        "longitude": -4925367018781040
+    },
+    {
+        "name": "Confeitaria Holandesa",
+        "description": "Rua Dr. Pedrosa, 366\nSaiba mais em @confeitaria_holandesa",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "martha-rocha",
+        "district": "centro",
+        "latitude": -25438165870299400,
+        "longitude": -4927785321664580
+    },
+    {
+        "name": "Padaria América ",
+        "description": "Rua Pres. Carlos Cavalcanti, 942 \nSaiba mais em @padariaamerica",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "martha-rocha",
+        "district": "são-francisco",
+        "latitude": -254250498724212,
+        "longitude": -4927452504684760
+    },
+    {
+        "name": "Postos Pelanda - CIC",
+        "description": "Av. Juscelino Kubitschek De Oliveira, 5955\nSaiba mais em @postospelanda",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "cidade-industrial-de-curitiba",
+        "latitude": -25482827091154500,
+        "longitude": -4934744638780850
+    },
+    {
+        "name": "Postos Pelanda - Funny",
+        "description": "Av. Presidente Wenceslau Braz, 765\nSaiba mais em @postospelanda",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "funny",
+        "latitude": -25472135087157700,
+        "longitude": -4926229281849640
+    },
+    {
+        "name": "Postos Pelanda - Cristo Rei",
+        "description": "Av. Sete De Setembro, 1581\nSaiba mais em @postospelanda",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "cristo-rei",
+        "latitude": -25432991650682400,
+        "longitude": -4925474981664580
+    },
+    {
+        "name": "Nash Sokal Confeitaria",
+        "description": "Rua Santa Catarina, 526\nSaiba mais em @nash_sokal",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "água-verde",
+        "latitude": -25462295364977300,
+        "longitude": -4928458154871110
+    },
+    {
+        "name": "Coxinha do Chris",
+        "description": "Avenida Iguaçu, 2090\nSaiba mais em @coxinhadochriscuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "água-verde",
+        "latitude": -25446273353377400,
+        "longitude": -4928167335897370
+    },
+    {
+        "name": "Pantucci - Vila Izabel",
+        "description": "Rua Professor Ulisses Vieira 146\nSaiba mais em @pantuccipanificadora",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "vila-izabel",
+        "latitude": -25461351281277400,
+        "longitude": -49291764316645104
+    },
+    {
+        "name": "Pantucci - Vista Alegre",
+        "description": "Rua Antônio Grade, 620\nSaiba mais em @pantuccipanificadora",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "vista-alegre",
+        "latitude": -25407729426650500,
+        "longitude": -49292207431990400
+    },
+    {
+        "name": "Pantucci - Pátio Batel",
+        "description": "Avenida do Batel, 1868\nSaiba mais em @pantuccipanificadora",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "batel",
+        "latitude": -25443700225029900,
+        "longitude": -4929087085897370
+    },
+    {
+        "name": "Confeitaria Dois Corações - Senador ",
+        "description": "Rua Senador Alencar Guimarães, 186\nSaiba mais em @confeitariadoiscoracoes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "centro",
+        "latitude": -25434287286407100,
+        "longitude": -4927444450500550
+    },
+    {
+        "name": "Confeitaria Dois Corações - XV",
+        "description": "Rua XV de Novembro, 80\nSaiba mais em @confeitariadoiscoracoes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "centro",
+        "latitude": -25431589972129300,
+        "longitude": -4927290223198990
+    },
+    {
+        "name": "Confeitaria Dois Corações - Tiradentes",
+        "description": "Praça Tiradentes, 510\nSaiba mais em @confeitariadoiscoracoes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "coxinha",
+        "district": "centro",
+        "latitude": -2543004480197470,
+        "longitude": -4927152086082570
+    },
+    {
+        "name": "Cervejaria Lobos",
+        "description": "Rua Aruba, 69 - Centro\nSaiba mais em @cervejarialobos",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "torresmo",
+        "district": "pinhais",
+        "latitude": -25434966177014300,
+        "longitude": -4918339043198980
+    },
+    {
+        "name": "Porkito",
+        "description": "Rua Chile, 1883\nSaiba mais em @por.kito",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "torresmo",
+        "district": "rebouças",
+        "latitude": -25451335937927000,
+        "longitude": -4926705851849710
+    },
+    {
+        "name": "Sambiquira",
+        "description": "Rua Visconde do Rio Branco, 1199\nSaiba mais em @sambiquiracuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "torresmo",
+        "district": "centro",
+        "latitude": -2543212892947510,
+        "longitude": -49279954931989904
+    },
+    {
+        "name": "Quermesse",
+        "description": "Rua Carlos Pioli, 513 \nSaiba mais em @barquermesse",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "torresmo",
+        "district": "bom-retiro",
+        "latitude": -254105984961335,
+        "longitude": -4927646434548250
+    },
+    {
+        "name": "Jipe Bar CWB",
+        "description": "Rua Secondo Tedeschi, 36\nSaiba mais em @jipebarcwb",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "torresmo",
+        "district": "ahú",
+        "latitude": -25399036957868300,
+        "longitude": -4925815201849860
+    },
+    {
+        "name": "Chácara Das Vaquinhas Eventos e Gastronomia ",
+        "description": "Rua Vila Nova, 500 - Cachoeira \nSaiba mais em @chacaradasvaquinhas",
+        "type": 1,
+        "curitibanices": 1,
+        "category": "costela",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -256262964813673,
+        "longitude": -4922394513383540
+    },
+    {
+        "name": "Carnegel",
+        "description": "Avenida Iguaçu, 3668 \nSaiba mais em @carnegelcarnes",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "costela",
+        "district": "rebouças",
+        "latitude": -2545168223851190,
+        "longitude": -49296179545481104
+    },
+    {
+        "name": "Quintal Hopland",
+        "description": "Rua Brasílio Itiberê, 4057\nSaiba mais em @hoplandcwb",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "costela",
+        "district": "água-verde",
+        "latitude": -25452371689646000,
+        "longitude": -4928274953013740
+    },
+    {
+        "name": "Mestres da Costella",
+        "description": "Rua Nicola Pellanda, 1467\nSaiba mais em @mestresdacostella",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "costela",
+        "district": "pinheirinho",
+        "latitude": -25541578528412000,
+        "longitude": -4929415201664250
+    },
+    {
+        "name": "Rib's Costela no Rolete",
+        "description": "Rua Doutor Goulin, 1784 \nSaiba mais em @ribscostelaria",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "costela",
+        "district": "hugo-lange",
+        "latitude": -2541896511269230,
+        "longitude": -4924345457246660
+    },
+    {
+        "name": "Lile Pães",
+        "description": "Rua Alete Dacheaux Stori, 278\nSaiba mais em @lilepaes",
+        "type": 1,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "jardim-das-américas",
+        "latitude": -25464421473498300,
+        "longitude": -4922010135897300
+    },
+    {
+        "name": "Forneiro",
+        "description": "Avenida Pres. Getúlio Vargas, 2564 \nSaiba mais em @oforneiro",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "água-verde",
+        "latitude": -25449031721813000,
+        "longitude": -4928392930130160
+    },
+    {
+        "name": "Maçã Padaria - Vila Izabel",
+        "description": "Rua Prof. Sebastião Paraná, 195\nSaiba mais em @macapadaria",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "vila-izabel",
+        "latitude": -2546044757960470,
+        "longitude": -49291663187808896
+    },
+    {
+        "name": "Maçã Padaria - Alto da XV",
+        "description": "Rua Fernando Amaro, 802 B\nSaiba mais em @macapadaria",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "alto-da-xv",
+        "latitude": -2542849767822400,
+        "longitude": -4925077416082570
+    },
+    {
+        "name": "Maçã Padaria - Praça do Japão",
+        "description": "Avenida Sete de Setembro, 4979\nSaiba mais em @macapadaria",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "água-verde",
+        "latitude": -25445171515603700,
+        "longitude": -4928607830315330
+    },
+    {
+        "name": "Dóffee - Centro",
+        "description": "Alameda Dr. Carlos de Carvalho, 163\nSaiba mais em @doffee.donuts",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "centro",
+        "latitude": -2543171487230990,
+        "longitude": -4927674967431790
+    },
+    {
+        "name": "Dóffee - Portão",
+        "description": "Av. Rep. Argentina, 3203\nSaiba mais em @doffee.donuts",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "portão",
+        "latitude": -25473950561527100,
+        "longitude": -4929350697431660
+    },
+    {
+        "name": "Dóffee - Bigorrilho",
+        "description": "Rua General Aristides Athayde Júnior, 657 \nSaiba mais em @doffee.donuts",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "bigorrilho",
+        "latitude": -25431881002687800,
+        "longitude": -49297770943630096
+    },
+    {
+        "name": "Padaria Requinte - Bigorrilho",
+        "description": "Rua Francisco Rocha, 1809\nSaiba mais em @padariarequinte",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "bigorrilho",
+        "latitude": -2543035720250200,
+        "longitude": -49296213616646
+    },
+    {
+        "name": "Padaria Requinte - Cabral",
+        "description": "Rua Recife, 34\nSaiba mais em @padariarequinte",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "sonho\/donuts",
+        "district": "cabral",
+        "latitude": -2541176798577860,
+        "longitude": -4925305238917570
+    },
+    {
+        "name": "Guiolla Hamburgueria e Gelateria - Bacacheri",
+        "description": "Av. José Gullin, 105\nSaiba mais em @guiolla",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "bacacheri",
+        "latitude": -25393367047854400,
+        "longitude": -4922551484363130
+    },
+    {
+        "name": "Guiolla Hamburgueria e Gelateria - Batel",
+        "description": "Avenida Vicente Machado, 878\nSaiba mais em @guiolla",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "batel",
+        "latitude": -2543611484577390,
+        "longitude": -4928515490315360
+    },
+    {
+        "name": "SOFT ≈ Ice Cream - Centro",
+        "description": "Alameda Dr. Carlos de Carvalho, 665 \nSaiba mais em @soft.icecream.co ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "centro",
+        "latitude": -25433542140809800,
+        "longitude": -492815411761695
+    },
+    {
+        "name": "SOFT ≈ Ice Cream - Centro Cívico",
+        "description": "Rua Manoel Eufrásio, 1550\nSaiba mais em @soft.icecream.co",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "centro-cívico",
+        "latitude": -2540848820288690,
+        "longitude": -4926776873199020
+    },
+    {
+        "name": "Freddo - Centro ",
+        "description": "Alameda Dr. Carlos de Carvalho, 1175\nSaiba mais em @freddogelateria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "centro",
+        "latitude": -25435353377574600,
+        "longitude": -49285943345481800
+    },
+    {
+        "name": "Freddo - Batel",
+        "description": "Avenida Sete de Setembro, 5713\nSaiba mais em @freddogelateria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "batel",
+        "latitude": -25447594292148300,
+        "longitude": -49292733376169200
+    },
+    {
+        "name": "Freddo - Cabral",
+        "description": "Avenida Munhoz da Rocha, 530\nSaiba mais em @freddogelateria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "cabral",
+        "latitude": -2541047595071330,
+        "longitude": -49253781574318400
+    },
+    {
+        "name": "Gelato Borelli",
+        "description": "Rua Fernando Simas, 27\nSaiba mais em @gelatoborellicuritiba ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "mercês",
+        "latitude": -25435257533003800,
+        "longitude": -49287024774317800
+    },
+    {
+        "name": "Milk Creamery - Mercadoteca",
+        "description": "Rua Paulo Gorski, 1309\nSaiba mais em @milkcreameryoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "mossunguê",
+        "latitude": -25441898168585700,
+        "longitude": -4932256141664550
+    },
+    {
+        "name": "Milk Creamery - Souq",
+        "description": "Avenida Iguaçu, 4399\nSaiba mais em @milkcreameryoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "vila-izabel",
+        "latitude": -25454740992959700,
+        "longitude": -4930311066082500
+    },
+    {
+        "name": "Milk Creamery - Batel",
+        "description": "Rua Francisco Rocha, 561\nSaiba mais em @milkcreameryoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "sorvete",
+        "district": "batel",
+        "latitude": -25440827720179100,
+        "longitude": -4929031724733330
+    },
+    {
+        "name": "Fábrica do Pastel - Água Verde",
+        "description": "Rua Santa Catarina, 1198\nSaiba mais em @fabricadopastel",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "água-verde",
+        "latitude": -2546675950493920,
+        "longitude": -49281019576168400
+    },
+    {
+        "name": "Fábrica do Pastel - Sítio Cercado",
+        "description": "Rua São José dos Pinhais, 1644 \nSaiba mais em @fabricadopastel",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "sítio-cercado",
+        "latitude": -25544348082181300,
+        "longitude": -4925920564532860
+    },
+    {
+        "name": "Fábrica do Pastel - Xaxim",
+        "description": "Rua Professor Leonel Moro, 47\nSaiba mais em @fabricadopastel",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "xaxim",
+        "latitude": -25500352220802700,
+        "longitude": -4926600273013590
+    },
+    {
+        "name": "Pastelaria Benê",
+        "description": "Avenida Presidente Kennedy, 2062\nSaiba mais em @pastelariabene",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "rebouças",
+        "latitude": -2546361092565430,
+        "longitude": -4927711095897310
+    },
+    {
+        "name": "Lolô Pastéis",
+        "description": "Avenida Castro Alves, 182 - Boneca do Iguaçu\nSaiba mais em @lolopasteis",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -25519740599872000,
+        "longitude": -4919135940315110
+    },
+    {
+        "name": "Pastenina The Pastel Place",
+        "description": "Rua Alberto Bolliger, 885 \nSaiba mais em @pastenina.pastel",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "juvevê",
+        "latitude": -2541491036695790,
+        "longitude": -4926007465897450
+    },
+    {
+        "name": "Pastelaria Brasileira",
+        "description": "Rua Candido Lopes, 156\nSaiba mais em @pastelariabrasileira",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pastel",
+        "district": "centro",
+        "latitude": -25430617470722300,
+        "longitude": -4927394531849760
+    },
+    {
+        "name": "Super Muffato Gourmet - Champagnat ",
+        "description": "Rua Euclides da Cunha, 1400\nSaiba mais em @super_muffato",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "bigorrilho",
+        "latitude": -2543301535072990,
+        "longitude": -4929847030315360
+    },
+    {
+        "name": "Super Muffato Gourmet - Alberto Folloni",
+        "description": "Av. Alberto Folloni, 420\nSaiba mais em @super_muffato",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "juvevê",
+        "latitude": -25411102897533100,
+        "longitude": -492635174473341
+    },
+    {
+        "name": "Festval - Água Verde",
+        "description": "Rua Professor Álvaro Jorge,75 \nSaiba mais em @festvalcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "água-verde",
+        "latitude": -25458808111528100,
+        "longitude": -4928994736082490
+    },
+    {
+        "name": "Festval - Barigüi",
+        "description": "Avenida Cândido Hartmann,1580\nSaiba mais em @festvalcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "mercês",
+        "latitude": -25425183414379000,
+        "longitude": -4929981545897430
+    },
+    {
+        "name": "Festval - Batel",
+        "description": "Rua Coronel Dulcídio, 880\nSaiba mais em @festvalcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "batel",
+        "latitude": -25440639208314400,
+        "longitude": -4928233588966140
+    },
+    {
+        "name": "Ítalo Supermercados - Portão",
+        "description": "Rua João Bettega, 1040\nSaiba mais em @italosupermercados",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "portão",
+        "latitude": -2547557830664310,
+        "longitude": -4930416500315240
+    },
+    {
+        "name": "Ítalo Supermercados - Cristo Rei",
+        "description": "Rua São José, 1240\nSaiba mais em @italosupermercados",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "cristo-rei",
+        "latitude": -2543371079647910,
+        "longitude": -4923745785942970
+    },
+    {
+        "name": "Fris Mercado",
+        "description": "Rua Dom Pedro I, 555\nSaiba mais em @friscuritiba ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "água-verde",
+        "latitude": -2545874281499780,
+        "longitude": -49283337156352200
+    },
+    {
+        "name": "Família Scopel Adega & Empório - Centro",
+        "description": "Rua da Paz, 585\nSaiba mais em @familiascopel",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "centro",
+        "latitude": -25433987886608500,
+        "longitude": -49256261460825696
+    },
+    {
+        "name": "Família Scopel Adega & Empório - Ahú",
+        "description": "Avenida Anita Garibaldi, 1047 - Ahú\nSaiba mais em @familiascopel",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "mercado-gourmet",
+        "district": "ahú",
+        "latitude": -25402360229862500,
+        "longitude": -4925894017431860
+    },
+    {
+        "name": "Puinas Bar Feijoada Dona Cacilda ",
+        "description": "Avenida Vereador Toaldo Tulio, 1136\nSaiba mais em @puinasbar",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "feijoada",
+        "district": "santa-felicidade",
+        "latitude": -2540733170800810,
+        "longitude": -4933911368966230
+    },
+    {
+        "name": "Tiki Taka Gastrobar",
+        "description": "Rua Petit Carneiro, 394 \nSaiba mais em @tikitakagastrobar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "feijoada",
+        "district": "água-verde",
+        "latitude": -25449614559558600,
+        "longitude": -4928088644548140
+    },
+    {
+        "name": "Bar Nacional",
+        "description": "Rua Mateus Leme, 368\nSaiba mais em @nacionalbar ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "feijoada",
+        "district": "são-francisco",
+        "latitude": -2542428003087120,
+        "longitude": -49271061816646096
+    },
+    {
+        "name": "Pantagruel ",
+        "description": "Rua Professor Joaquim de Matos Barreto\nSaiba mais em @pantagruel_curitiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "feijoada",
+        "district": "são lourenço",
+        "latitude": -25389382325962700,
+        "longitude": -4926962241664710
+    },
+    {
+        "name": "O Tal do Quintal ",
+        "description": "Avenida Jaime Reis, 366\nSaiba mais em @o_tal_do_quintal",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "feijoada",
+        "district": "são-francisco",
+        "latitude": -25425819415554700,
+        "longitude": -49277276745482096
+    },
+    {
+        "name": "Ué Pet Café",
+        "description": "Alameda Prudente de Moraes, 1201\nSaiba mais em @uepetcafe ",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pet-friendly",
+        "district": "centro",
+        "latitude": -25432188840404600,
+        "longitude": -4928121597246610
+    },
+    {
+        "name": "Supimpa Pizzaria",
+        "description": "Rua Petit Carneiro, 318\nSaiba mais em @supimpacasualfood",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pet-friendly",
+        "district": "água-verde",
+        "latitude": -25449250158884500,
+        "longitude": -4928021713013750
+    },
+    {
+        "name": "Fabulosa Bakery",
+        "description": "Rua Solimões, 681\nSaiba mais em @fabulosabakery",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pet-friendly",
+        "district": "mercês",
+        "latitude": -2541882964388140,
+        "longitude": -4928358518781030
+    },
+    {
+        "name": "Ca'dore Comida Descomplicada ",
+        "description": "Avenida José Gulin, 265\nSaiba mais em @cadorecuritiba ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pet-friendly",
+        "district": "bacacheri",
+        "latitude": -25393889779945000,
+        "longitude": -4922533181664700
+    },
+    {
+        "name": "Praça do Victor",
+        "description": "Rua Saldanha Marinho, 1650 \nSaiba mais em @restaurantesvictor",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pet-friendly",
+        "district": "bigorrilho",
+        "latitude": -25434148453787800,
+        "longitude": -49287151545481800
+    },
+    {
+        "name": "Aizu Japanese Cuisine",
+        "description": "Alameda Dr. Carlos de Carvalho, 2420 \nSaiba mais em @aizu_restaurante",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "bigorrilho",
+        "latitude": -25439668564103200,
+        "longitude": -49297789203153504
+    },
+    {
+        "name": "Vindouro Restaurante",
+        "description": "Rua Guarda-mor Lustosa, 129 \nSaiba mais em @vindourorestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "juvevê",
+        "latitude": -25413177248248300,
+        "longitude": -49256876472466704
+    },
+    {
+        "name": "Doppo Cucina ",
+        "description": "Avenida do Batel, 1550, loja 2 \nSaiba mais em @doppocucina",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "batel",
+        "latitude": -2544165868669930,
+        "longitude": -4928801963013780
+    },
+    {
+        "name": "OBST.Lugar",
+        "description": "Alameda Prudente de Morais, 983\nSaiba mais em @obst.lugar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "centro",
+        "latitude": -254302997488383,
+        "longitude": -49282190647333400
+    },
+    {
+        "name": "K.sa Restaurante",
+        "description": "Rua Fernando Simas, 260\nSaiba mais em @k.sarestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "bigorrilho",
+        "latitude": -2543317964011060,
+        "longitude": -4928757861479420
+    },
+    {
+        "name": "Restaurante Manu",
+        "description": "Alameda Dom Pedro II, 317\nSaiba mais em @restaurantemanu",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "batel",
+        "latitude": -2543830734778190,
+        "longitude": -49284091845481696
+    },
+    {
+        "name": "DUQ Gastronomia",
+        "description": "Alameda Dr. Carlos de Carvalho, 360 \nSaiba mais em @duqgastronomia",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "melhor-restaurante",
+        "district": "centro",
+        "latitude": -25432070070553200,
+        "longitude": -49278749476169600
+    },
+    {
+        "name": "Restaurante Igor ",
+        "description": "Rua Gutemberg, 151 \nSaiba mais em @restauranteigor",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "batel",
+        "latitude": -25437954328675100,
+        "longitude": -4928615061664580
+    },
+    {
+        "name": "Bar do Victor",
+        "description": "Rua Lívio Moreira, 284\nSaiba mais em @restaurantesvictor",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "são-lourenço",
+        "latitude": -25397669839267400,
+        "longitude": -4927052921849870
+    },
+    {
+        "name": "La Varenne Gastronomia",
+        "description": "Avenida do Batel, 1868, loja 405 \nSaiba mais em @lavarenneoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "batel",
+        "latitude": -25442756176573400,
+        "longitude": -49291639931989504
+    },
+    {
+        "name": "Paco Cocina y Bar ",
+        "description": "Alameda Dom Pedro II, 699 \nSaiba mais em @paco_cocinaybar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "batel",
+        "latitude": -2544073569691620,
+        "longitude": -49286833889661400
+    },
+    {
+        "name": "Restaurante Ile de France",
+        "description": "Avenida do Batel, 1550, espace 4 \nSaiba mais em @iledefranceoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "batel",
+        "latitude": -254419649392086,
+        "longitude": -4928811411068060
+    },
+    {
+        "name": "Fujii Cozinha Japonesa",
+        "description": "Avenida Sete de Setembro, 1865, Box 194 - Mercado Municipal\nSaiba mais em @fujii.cozinhajaponesa",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "menu-completo ",
+        "district": "centro",
+        "latitude": -25434614720751800,
+        "longitude": -4925695764548190
+    },
+    {
+        "name": "DUQ Gastronomia",
+        "description": "Alameda Dr. Carlos de Carvalho, 360 \nSaiba mais em @duqgastronomia",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "carta-de-vinhos",
+        "district": "centro",
+        "latitude": -25432188362340300,
+        "longitude": -49278778305754800
+    },
+    {
+        "name": "Bar do Victor",
+        "description": "Rua Lívio Moreira, 284\nSaiba mais em @restaurantesvictor",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "carta-de-vinhos",
+        "district": "são-lourenço",
+        "latitude": -25397334711349600,
+        "longitude": -49269949389662600
+    },
+    {
+        "name": "Cas.Cais - Mar & Vinho ",
+        "description": "Avenida do Batel, 1868 - Pátio Batel (piso L3)\nSaiba mais em @cascais.marevinho",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "carta-de-vinhos",
+        "district": "batel",
+        "latitude": -25442726023384900,
+        "longitude": -4929067382828620
+    },
+    {
+        "name": "La Varenne Gastronomia",
+        "description": "Avenida do Batel, 1868, loja 405 \nSaiba mais em @lavarenneoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "carta-de-vinhos",
+        "district": "batel",
+        "latitude": -25443365530391900,
+        "longitude": -49291301574317400
+    },
+    {
+        "name": "Restaurante Durski",
+        "description": "Avenida Jaime Reis, 254 \nSaiba mais em @restaurantedurski",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "carta-de-vinhos",
+        "district": "são-francisco",
+        "latitude": -25426232274764800,
+        "longitude": -49276314418497696
+    },
+    {
+        "name": "Bar do Victor",
+        "description": "Rua Lívio Moreira, 284\nSaiba mais em @restaurantesvictor",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "são-lourenço",
+        "latitude": -25397532547128500,
+        "longitude": -49270942187811000
+    },
+    {
+        "name": "Restaurante Mar e Terra ",
+        "description": "Avenida Monteiro Tourinho, 141 \nSaiba mais em @restaurante.mareterra",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "tingui",
+        "latitude": -25389514496431400,
+        "longitude": -49223234274319000
+    },
+    {
+        "name": "Marcondes Cozinha Autoral",
+        "description": "Rua Recife, 220 \nSaiba mais em @marcondesrestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "cabral",
+        "latitude": -25410653305321000,
+        "longitude": -49251762074318400
+    },
+    {
+        "name": "Coco Bambu - Shopping Crystal",
+        "description": "Rua Comendador Araújo, 731\nSaiba mais em @cocobambucuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "batel",
+        "latitude": -25438363050112300,
+        "longitude": -4928167501664550
+    },
+    {
+        "name": "Coco Bambu - ParkShopping Barigui",
+        "description": "Rua Professor Pedro Viriato Parigot de Souza, 600\nSaiba mais em @cocobambucuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "mossunguê",
+        "latitude": -25434945999159700,
+        "longitude": -4931683121849760
+    },
+    {
+        "name": "Karbonell",
+        "description": "Rua Dr. Manoel Pedro, 260\nSaiba mais em @karbonellcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "frutos-do-mar",
+        "district": "cabral",
+        "latitude": -25407386263744200,
+        "longitude": -49255094314794800
+    },
+    {
+        "name": "Aizu Japanese Cuisine",
+        "description": "Alameda Dr. Carlos de Carvalho, 2420 \nSaiba mais em @aizu_restaurante",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "oriental",
+        "district": "bigorrilho",
+        "latitude": -25439544952784600,
+        "longitude": -49298019128415600
+    },
+    {
+        "name": "Restaurante Hai-Yo",
+        "description": "Rua Visconde de Nácar, 1424, Piso SL\nSaiba mais em @haiyo_restaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "oriental",
+        "district": "centro ",
+        "latitude": -25434377320331900,
+        "longitude": -4927661041849750
+    },
+    {
+        "name": "Restaurante Keiji",
+        "description": "Rua Doutor Roberto Barrozo, 1501\nSaiba mais em @keijisushibar",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "oriental",
+        "district": "mercês",
+        "latitude": -25415513967927800,
+        "longitude": -4928360898595880
+    },
+    {
+        "name": "Restaurante Kan ",
+        "description": "Avenida Presidente Getúlio Vargas, 3121\nSaiba mais em @restaurantekan",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "oriental",
+        "district": "água-verde",
+        "latitude": -25451624613554600,
+        "longitude": -49288924874317104
+    },
+    {
+        "name": "Nuu Nikkei ",
+        "description": "Rua Fernando Simas, 333\nSaiba mais em @nuunikkei",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "oriental",
+        "district": "mercês",
+        "latitude": -25432770217489600,
+        "longitude": -49288503491513200
+    },
+    {
+        "name": "Prestinaria - Casa de Pães - Bigorrilho",
+        "description": "Rua Euclides da Cunha, 699\nSaiba mais em @prestinaria",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "bigorrilho",
+        "latitude": -254387207621978,
+        "longitude": -4929594671479410
+    },
+    {
+        "name": "Prestinaria - Casa de Pães - MON",
+        "description": "Rua Marechal Hermes, 999\nSaiba mais em @prestinaria",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "centro-cívico",
+        "latitude": -25409766913093600,
+        "longitude": -4926718528781050
+    },
+    {
+        "name": "Prestinaria - Casa de Pães - São Lourenço",
+        "description": "Mateus Leme, 3440\nSaiba mais em @prestinaria",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "são-lourenço",
+        "latitude": -25396801229850600,
+        "longitude": -4927107337431880
+    },
+    {
+        "name": "Lucca Cafés Especiais",
+        "description": "Alameda Presidente Taunay, 40\nSaiba mais em @luccacafesespeciais",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "batel",
+        "latitude": -2543770097146190,
+        "longitude": -4928226911664580
+    },
+    {
+        "name": "Marbô Gastronomia De Origem",
+        "description": "Rua Prof. João Doetzer, 15\nSaiba mais em @marbo.gastronomia",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "jardim-das-américas",
+        "latitude": -254589656898854,
+        "longitude": -4922396458966090
+    },
+    {
+        "name": "Jardins Café ",
+        "description": "Rua Mateus Leme, 4019\nSaiba mais em @jardinscafe",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "são-lourenço",
+        "latitude": -25392248122906400,
+        "longitude": -49269718076170800
+    },
+    {
+        "name": "Koré Suryaa ",
+        "description": "Rua Jaguariaiva, 344 - Alphaville Graciosa \nSaiba mais em @koresuryaa",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "brunch",
+        "district": "pinhais",
+        "latitude": -2539403765684120,
+        "longitude": -4916317437246750
+    },
+    {
+        "name": "Ruedo Carnes ",
+        "description": "Rua Augusto Stellfeld, 1061\nSaiba mais em @ruedo.carnes",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "centro",
+        "latitude": -25431882761712900,
+        "longitude": -492839862608259
+    },
+    {
+        "name": "Batel Grill Churrascaria ",
+        "description": "Avenida Nossa Sra. Aparecida, 78 \nSaiba mais em @batelgrill",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "seminário",
+        "latitude": -25448833162890700,
+        "longitude": -4929961383013740
+    },
+    {
+        "name": "Boi and Beer ",
+        "description": "Rua Marcelino Champagnat, 779\nSaiba mais em @boiandbeer",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "mercês",
+        "latitude": -25428744520961900,
+        "longitude": -4929394240500580
+    },
+    {
+        "name": "Las Tablas Parrilla Porteña ",
+        "description": "Rua Gutemberg, 23\nMais informações em @lastablasbr",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "batel",
+        "latitude": -25437449993527300,
+        "longitude": -4928500143384130
+    },
+    {
+        "name": "KF Carnes",
+        "description": "Rua Guaianazes, 15\nMais informações em @kfcarnesoficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "vila-izabel",
+        "latitude": -25453834192587600,
+        "longitude": -4929109938780930
+    },
+    {
+        "name": "Churrascaria Badida",
+        "description": "Avenida Sete de Setembro, 6045 \nMais informações em @badidasete",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "casa-de-carnes",
+        "district": "seminário",
+        "latitude": -25448969821713400,
+        "longitude": -4929592984733290
+    },
+    {
+        "name": "Royalty Quality Coffee",
+        "description": "Rua São Francisco, 179, sala 4\nSaiba mais em @royalty.cafe",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "centro",
+        "latitude": -2542802125122920,
+        "longitude": -49270153630138200
+    },
+    {
+        "name": "Supernova Coffee",
+        "description": "Rua Coronel Dulcídio, 544\nSaiba mais em @supernovacoffee",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "batel",
+        "latitude": -2543842865929280,
+        "longitude": -4928400883198960
+    },
+    {
+        "name": "Lucca Cafés Especiais",
+        "description": "Alameda Presidente Taunay, 40\nSaiba mais em @luccacafesespeciais",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "batel",
+        "latitude": -2543780855512060,
+        "longitude": -4928240463578370
+    },
+    {
+        "name": "Local Pães e Cafés",
+        "description": "Rua Saldanha Marinho, 1070\nSaiba mais em @local.paesecafes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "centro",
+        "latitude": -25432068016247600,
+        "longitude": -49281923589661600
+    },
+    {
+        "name": "Santo Grão ",
+        "description": "Avenida do Batel, 1868\nSaiba mais em @santograo",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "batel",
+        "latitude": -2544280167040190,
+        "longitude": -4929079415897370
+    },
+    {
+        "name": "Café do Viajante",
+        "description": "Rua Comendador Fontana, 229",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "café-especial",
+        "district": "centro-cívico",
+        "latitude": -25418681624124700,
+        "longitude": -4926641828781030
+    },
+    {
+        "name": "Fábrika Pães - Pão Campanha",
+        "description": "Rua Schiller, 1341\nSaiba mais em @fabrikapaes",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "pão-artesanal",
+        "district": "alto-da-xv",
+        "latitude": -25423016320505200,
+        "longitude": -4924999458966190
+    },
+    {
+        "name": "Bonin Bakery - Baguette Tradicional Francesa",
+        "description": "Alameda Prudente de Moraes, 995\nSaiba mais em @boninbakery ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-artesanal",
+        "district": "centro",
+        "latitude": -2543026799879770,
+        "longitude": -49282013374318096
+    },
+    {
+        "name": "Dan Bernardi Pães - Brioche Tradicional",
+        "description": "Rua Juiz Danilo Bertolin Précoma 420 (Somente delivery)\nSaiba mais em @danbernardi_paes",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-artesanal",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -25522042357523500,
+        "longitude": -49206279831987000
+    },
+    {
+        "name": "La Panoteca Slow Bakery - Pão Negro e Pão Paranaense ",
+        "description": "Rua Gastão Câmara 384\nSaiba mais em @panifesto_pao_paranaense",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-artesanal",
+        "district": "bigorrilho",
+        "latitude": -25435710389239500,
+        "longitude": -4930219854733330
+    },
+    {
+        "name": "Brød Bakery - Pão Levain de Batata Roxa",
+        "description": "Rua Padre Ladislau Kula, 800, Loja 07\/08\nSaiba mais em @brodbakerycuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "pão-artesanal",
+        "district": "santo-inácio",
+        "latitude": -25428519067686500,
+        "longitude": -493215060608259
+    },
+    {
+        "name": "Cervejaria FrohenFeld",
+        "description": "Av. República Argentina, 2537, Loja 10\nSaiba mais em @frohenfeld",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "portão",
+        "latitude": -25468182425106800,
+        "longitude": -4929357516082450
+    },
+    {
+        "name": "Cervejaria Fumaçônica ",
+        "description": "Rua Simão Bolívar, 1653\nSaiba mais em @fumaconica",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "hugo-lange",
+        "latitude": -25419993394898700,
+        "longitude": -4924326548781040
+    },
+    {
+        "name": "Cervejaria Moondri ",
+        "description": "Avenida Fredolin Wolf, 4344\nSaiba mais em @cervejariamoondri",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "pilarzinho",
+        "latitude": -25385300634277800,
+        "longitude": -4932635670315520
+    },
+    {
+        "name": "277 Craft Beer",
+        "description": "Rua Marechal Floriano, 709 - Foz do Iguaçu\nSaiba mais em @277craftbeer",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "foz-do-iguaçu",
+        "latitude": -25547806563641900,
+        "longitude": -545840478896581
+    },
+    {
+        "name": "Cervejaria Coice da Mula ",
+        "description": "Av. Maringá 976 - Emiliano Perneta\nSaiba mais em @coicedamulacervejaria",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "pinhais",
+        "latitude": -25421707997929700,
+        "longitude": -49190724362677904
+    },
+    {
+        "name": "Bodebrown ",
+        "description": "Rua Carlos de Laet, 1015\nSaiba mais em @bodebrown",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "hauer",
+        "latitude": -25472337329816300,
+        "longitude": -4924750513384020
+    },
+    {
+        "name": "Joy Project Brewing",
+        "description": "Linha Verde, 15847\nSaiba mais em @joyprojectbrewing",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "cerveja-artesanal-paranaense ",
+        "district": "xaxim",
+        "latitude": -25495292232512500,
+        "longitude": -492746244338395
+    },
+    {
+        "name": "Família Scopel Adega & Empório - Centro",
+        "description": "Rua da Paz, 585\nSaiba mais em @familiascopel",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "centro",
+        "latitude": -25434200830356500,
+        "longitude": -4925604938966170
+    },
+    {
+        "name": "Família Scopel Adega & Empório - Ahú",
+        "description": "Avenida Anita Garibaldi, 1047 - Ahú\nSaiba mais em @familiascopel",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "ahú",
+        "latitude": -2540213017812560,
+        "longitude": -49258573389156800
+    },
+    {
+        "name": "Enoteca Decanter",
+        "description": "Avenida Visconde de Guarapuava, 5154\nSaiba mais em @enotecadecantercuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "batel",
+        "latitude": -25444819391274200,
+        "longitude": -49290180087809600
+    },
+    {
+        "name": "Grande Adega",
+        "description": "Av. N. Sra. Aparecida, 381. (Somente compras online)\nSaiba mais em @grandeadega",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "seminário",
+        "latitude": -25449643847340300,
+        "longitude": -4930234273198920
+    },
+    {
+        "name": "V. Bar",
+        "description": "Rua Itupava, 1299\nSaiba mais em @v.barcwb",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "hugo-lange",
+        "latitude": -25422365869659300,
+        "longitude": -49247469631990000
+    },
+    {
+        "name": "Queijos e Vinhos Ecoville",
+        "description": "Rua Professor Pedro Viriato Parigot de Souza, 565, Loja E\nSaiba mais em @queijosevinhosecoville",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "mossunguê",
+        "latitude": -2543666148052000,
+        "longitude": -49314456058973800
+    },
+    {
+        "name": "Adega Brasil - Bigorrilho",
+        "description": "Avenida Cândido Hartmann, 1485\nSaiba mais em @adegabrasilcuritiba ",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "bigorrilho",
+        "latitude": -25426102064190100,
+        "longitude": -4929975290315410
+    },
+    {
+        "name": "Adega Brasil - Centro",
+        "description": "Rua da Paz, 643\nSaiba mais em @adegabrasilcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "centro",
+        "latitude": -25434439031490200,
+        "longitude": -4925598530500550
+    },
+    {
+        "name": "Adega Brasil - Mercado Municipal",
+        "description": "Avenida 7 de Setembro, 1865\nSaiba mais em @adegabrasilcuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "local-para-comprar-vinho",
+        "district": "centro",
+        "latitude": -25434585653886000,
+        "longitude": -49256871814794200
+    },
+    {
+        "name": "TAJ Bar - Kidushi",
+        "description": "Rua Bispo Dom José, 2302\nSaiba mais em @tajcuritiba",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "batel",
+        "latitude": -25444734043661100,
+        "longitude": -49294676087809600
+    },
+    {
+        "name": "Ponto Gin - Nutty Bomb - Batel",
+        "description": "Rua Presidente Taunay, 543\nSaiba mais em @pontogin",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "batel",
+        "latitude": -254347246763155,
+        "longitude": -4928583160315370
+    },
+    {
+        "name": "Ponto Gin - Nutty Bomb - Mercadoteca",
+        "description": "Rua Paulo Gorski, 1309\nSaiba mais em @pontogin",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "mossunguê",
+        "latitude": -25441946610417100,
+        "longitude": -4932255068780960
+    },
+    {
+        "name": "Jacobina - Especial Jacobina ",
+        "description": "Rua Almirante Tamandaré, 1365\nSaiba mais em @barjacobina",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "juvevê",
+        "latitude": -2542065931595950,
+        "longitude": -4925449981664630
+    },
+    {
+        "name": "Continental Cocktails - Nuttshell",
+        "description": "O endereço do bar só é revelado depois da reserva, que deve ser feita via mensagem no Instragram\nSaiba mais em @cocktailscontinental",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "curitiba",
+        "latitude": -25429046516740800,
+        "longitude": -4927180840638920
+    },
+    {
+        "name": "Ginger Bar - Carolis ",
+        "description": "Rua Saldanha Marinho 1220\nSaiba mais em @gingerbarcwb",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "centro",
+        "latitude": -2543257611908570,
+        "longitude": -4928322713013790
+    },
+    {
+        "name": "Lótus Sunset - Love ",
+        "description": "Rua Fernando Simas, 221\nSaiba mais em @lotussunset",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "bigorrilho",
+        "latitude": -2543377879728320,
+        "longitude": -4928834501664580
+    },
+    {
+        "name": "Malauí - Gin Malauí",
+        "description": "Rua Teixeira Coelho, 350\nSaiba mais em @malauirestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "drink-autoral",
+        "district": "batel",
+        "latitude": -25439115948757000,
+        "longitude": -4928799857616920
+    },
+    {
+        "name": "Funfit Faz Bem - Juvevê (Coxinha; Brownie; Quiche de cebola)",
+        "description": "Rua Rocha Pombo, 280\nSaiba mais em @funfitfazbem",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "juvevê",
+        "latitude": -25414851685810500,
+        "longitude": -4925711197246670
+    },
+    {
+        "name": "Funfit Faz Bem - Pátio Batel (Coxinha; Brownie; Quiche de cebola)",
+        "description": "Avenida do Batel, 1868 \nSaiba mais em @funfitfazbem",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "batel",
+        "latitude": -25442821046991500,
+        "longitude": -4929084780315350
+    },
+    {
+        "name": "Funfit Faz Bem - ParkShopping Barigui (Coxinha; Brownie; Quiche de cebola)",
+        "description": "Rua Prof. Pedro Viriato Parigot de Souza, 600\nSaiba mais em @funfitfazbem",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "mossunguê",
+        "latitude": -2543490724344380,
+        "longitude": -49316788303153800
+    },
+    {
+        "name": "Funfit Faz Bem - Mueller (Coxinha; Brownie; Quiche de cebola)",
+        "description": "Av. Cândido de Abreu, 127\nSaiba mais em @funfitfazbem",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "centro-cívico",
+        "latitude": -25423141020745700,
+        "longitude": -49270476887810304
+    },
+    {
+        "name": "Malauí - Cheesecake de frutas vermelhas",
+        "description": "Rua Teixeira Coelho, 350\nSaiba mais em @malauirestaurante",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "batel",
+        "latitude": -25438683116558000,
+        "longitude": -49288226003153504
+    },
+    {
+        "name": "Goöca Healthy & Tasty Bites - Goöca de Cookies",
+        "description": "Alameda Augusto Stellfeld, 2104 (venda pelo site)\nSaiba mais em @gooca.bites",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "bigorrilho",
+        "latitude": -2543500888816820,
+        "longitude": -4929379928966140
+    },
+    {
+        "name": "Sem Culpa Cozinha - Boliviano",
+        "description": "Rua Schiller, 1960\nSaiba mais em @semculpacozinha",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produto-local-sem-glúten ",
+        "district": "hugo-lange",
+        "latitude": -25417558129367400,
+        "longitude": -492491391761701
+    },
+    {
+        "name": "Chácara Maria Emília Orgânicos",
+        "description": "Avenida Anita Garibaldi, 2800 - Vila Liane, Ponta Grossa\nSaiba mais em @chacara.maria.emilia.origem",
+        "type": 1,
+        "curitibanices": 2,
+        "category": "produtor-local ",
+        "district": "ponta-grossa",
+        "latitude": -25065043298930500,
+        "longitude": -5015878740022130
+    },
+    {
+        "name": "Abelha Brasil",
+        "description": "Estrada Gilberto Palu, km 4,5 - Colônia Matos, Mandirituba\nSaiba mais em @abelhabrasil",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produtor-local ",
+        "district": "madirituba",
+        "latitude": -25792847419917600,
+        "longitude": -4929128570632020
+    },
+    {
+        "name": "Melkland Boutique de Queijos",
+        "description": "PR-340, Quilômetro 219 - Castro\nSaiba mais em @melkland_oficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produtor-local ",
+        "district": "castro",
+        "latitude": -2480519724668470,
+        "longitude": -4996734825068570
+    },
+    {
+        "name": "ProNobis Agroflorestal",
+        "description": "Estrada Geral do Felpudo, s\/n - Felpudo, Campo Largo\nSaiba mais em @pronobisagroflorestal",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produtor-local ",
+        "district": "campo-largo",
+        "latitude": -25444158213973900,
+        "longitude": -4957876028780960
+    },
+    {
+        "name": "Cooperativa Agroindustrial de Carlópolis - COAC",
+        "description": "Rodovia PR 218 Km 16 - Sítio Pinheirinho - Carlópolis\nSaiba mais em @coaccooperativa",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "produtor-local ",
+        "district": "carlópolis",
+        "latitude": -23449428923833700,
+        "longitude": -4974677774368890
+    },
+    {
+        "name": "Coalhadas Schaffer - Padaria América",
+        "description": "Rua. Pres. Carlos Cavalcanti, 942\nSaiba mais em @schaffercoalhadas e @padariaamerica",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "são-francisco",
+        "latitude": -25425285439347400,
+        "longitude": -4927398683198990
+    },
+    {
+        "name": "Restaurante Gato Preto",
+        "description": "Rua Des. Ermelino de Leão, 241 \nSaiba mais em @restaurante_gato_preto",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -2543007466993690,
+        "longitude": -492757209319897
+    },
+    {
+        "name": "Cini Bebidas",
+        "description": "Rua Marechal Hermes, 2001 - Rio Pequeno\nSaiba mais em @cinibebidas",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "são-josé-dos-pinhais",
+        "latitude": -2551877368063010,
+        "longitude": -4916237253198710
+    },
+    {
+        "name": "Frigorífico Bizinelli - Linguiça ",
+        "description": "Rua Maria Bizinelli, 530\nSaiba mais em @frigorifico_bizinelli",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "campo-comprido",
+        "latitude": -25447374031234700,
+        "longitude": -4932423438780950
+    },
+    {
+        "name": "Maneko's Bar ",
+        "description": "Alameda Cabral, 19\nSaiba mais em @manekosbar",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -2543245647338300,
+        "longitude": -49276551703153696
+    },
+    {
+        "name": "Restaurante Palácio",
+        "description": "Rua André de Barros, 500\nSaiba mais em @barpalaciocuritiba",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -2543438553139150,
+        "longitude": -4926771598781
+    },
+    {
+        "name": "Bar do Dante",
+        "description": "Rua Conselheiro Carrão, 194 \nSaiba mais em @bardodantecwb",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "juvevê",
+        "latitude": -2542049174542720,
+        "longitude": -4925614347246630
+    },
+    {
+        "name": "BarBaran",
+        "description": "Alameda Augusto Stellfeld, 799\nSaiba mais em @barbaran_ucrania",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -2543096891430400,
+        "longitude": -4928192811849760
+    },
+    {
+        "name": "Itália Pizza",
+        "description": "Rua Cândido Lopes, 229\nSaiba mais em @pizzariaitalia1",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -25431017192843400,
+        "longitude": -4927448691849770
+    },
+    {
+        "name": "Confeitaria das Famílias",
+        "description": "Rua XV de Novembro, 374",
+        "type": 2,
+        "curitibanices": 1,
+        "category": "curitibanice",
+        "district": "centro",
+        "latitude": -25430562724323300,
+        "longitude": -492702658184977
+    },
+    {
+        "name": "Sambiquira",
+        "description": "Rua Visconde do Rio Branco, 1199\nSaiba mais em @sambiquiracuritiba",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "centro",
+        "latitude": -2543235038410760,
+        "longitude": -4927974477431780
+    },
+    {
+        "name": "Louis Philippe Pâtisserie et Cuisine ",
+        "description": "Avenida Nossa Senhora da Luz, 850 - Lojas 04 e 05\nSaiba mais em @louisphilippe_oficial",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "cabral",
+        "latitude": -2541043906889330,
+        "longitude": -4924128650315450
+    },
+    {
+        "name": "Frühling | Bolos, Tortas E Descobertas - Batel",
+        "description": "Alameda Doutor Carlos de Carvalho, 1286\nSaiba mais em @fruhlingbolosetortas",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "batel",
+        "latitude": -2543557490017110,
+        "longitude": -49287175460825696
+    },
+    {
+        "name": "Frühling | Bolos, Tortas E Descobertas - Bom Retiro",
+        "description": "Rua Des. Hugo Simas, 2010\nSaiba mais em @fruhlingbolosetortas",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "bom-retiro",
+        "latitude": -25401579995121800,
+        "longitude": -4928322131479510
+    },
+    {
+        "name": "Continental Cocktails",
+        "description": "O endereço do bar só é revelado depois da reserva, que deve ser feita via mensagem no Instragram\nSaiba mais em @cocktailscontinental",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "curitiba",
+        "latitude": -2542917901564640,
+        "longitude": -4927231624441800
+    },
+    {
+        "name": "Fazenda Churrascada Curitiba ",
+        "description": "Rua Brigadeiro Franco 3991 \nSaiba mais em @fazendachurrascadacwb",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "rebouças",
+        "latitude": -25454430629278000,
+        "longitude": -492703463473329
+    },
+    {
+        "name": "DUQ Gastronomia",
+        "description": "Alameda Dr. Carlos de Carvalho, 360 \nSaiba mais em @duqgastronomia",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "centro",
+        "latitude": -2543201962701680,
+        "longitude": -49278972845481800
+    },
+    {
+        "name": "Vinagreira",
+        "description": "Alameda Júlia da Costa, 474\nSaiba mais em @vinagreira.cozinha",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "são-francisco",
+        "latitude": -25428473699322800,
+        "longitude": -49282259031989800
+    },
+    {
+        "name": "Cas.Cais - Mar & Vinho ",
+        "description": "Avenida do Batel, 1868 - Pátio Batel (piso L3)\nSaiba mais em @cascais.marevinho",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "batel",
+        "latitude": -25443753336917400,
+        "longitude": -4929108971664570
+    },
+    {
+        "name": "Maria Eugenia Restaurante",
+        "description": "Rua Capitão Antônio Pedri, 362\nSaiba mais em @restaurantemariaeugenia",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "santa-felicidade",
+        "latitude": -25408046193469200,
+        "longitude": -4932003147431850
+    },
+    {
+        "name": "Ponto Gin ",
+        "description": "Rua Presidente Taunay, 543\nSaiba mais em @pontogin",
+        "type": 2,
+        "curitibanices": 2,
+        "category": "novidades",
+        "district": "batel",
+        "latitude": -25434434353581900,
+        "longitude": -4928600178780990
+    }
+]
